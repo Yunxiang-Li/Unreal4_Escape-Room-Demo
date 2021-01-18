@@ -56,10 +56,11 @@ Under **Content** folder, there are altogether **5** subfolders:
 4. Sound folder: contains the door open/close sound file
 
 5. Models folder: contains all models we need in this demo which has **4** subfolders:
-  1. Instances folder: contains **5** material instances we need in this demo such as `MI_Door`, `MI_Wall` and so on.
-  2. Materials folder: contains **5** materials we need in this demo such as `M_Brass`, `M_Cell` and so on.
-  3. StaticMeshes folder: contains **2** static meshes we need in this demo. They are `SM_DoorFrame` and `SM_Door`.
-  4. Textures folder: contains **4** textures we need in this demo such as `T_Cell_BC`, `T_Door_BC` and so on.
+
+5.1. Instances folder: contains **5** material instances we need in this demo such as `MI_Door`, `MI_Wall` and so on.
+5.2. Materials folder: contains **5** materials we need in this demo such as `M_Brass`, `M_Cell` and so on.
+5.3. StaticMeshes folder: contains **2** static meshes we need in this demo. They are `SM_DoorFrame` and `SM_Door`.
+5.4. Textures folder: contains **4** textures we need in this demo such as `T_Cell_BC`, `T_Door_BC` and so on.
 
 ## Maintainers
 
