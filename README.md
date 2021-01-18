@@ -15,11 +15,10 @@ A simple esacpe game demo based on unreal4 game engine.
 - [License](#license)
 
 ## Background
-This is a very simple building escape game made by Unreal4 Game Engine according to the [Michigan State University](https://msu.edu/)'s coursera course [Introduction to Game Development](https://www-cloudfront-alias.coursera.org/learn/game-development/home/welcome).
 
-This game altogether has 2 levels. For each level, player needs to collect specific amount of scores(50 scores in both level) by shooting moving targets to win the level. Both levels have time limit, 15 seconds for level one and 10 seconds for level two. The player can shoot green targets to earn 5 scores each, shoot white targets to earn 3 seconds each and lose 3 seconds if shooting red targets.
+This is a very simple building escape game demo made by Unreal4 Game Engine.
 
-Player can press wasd or arrow buttons to move, player can also press left mouse button or space button to shoot. If time is up then the game ends, player can shoot rotating buttons to restart, go to next level or play again.
+In this demo, player needs to open two doors and escape the room. Player can use `wasd` or arrow keys to move and use mouse to change views. Additionally, player can use right mouse button to grab or release objects in the scene(button pressed to grab and button released to release).
 
 ## Exhibition
 
@@ -29,10 +28,10 @@ Player can press wasd or arrow buttons to move, player can also press left mouse
 
 ## Install
 
-I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 environment.<br>
-[Unity and Unity hub download](https://unity3d.com/get-unity/download)<br>
-[archived Unity download ](https://unity3d.com/get-unity/download/archive)<br>
-[Jetbrains Rider download](https://www.jetbrains.com/rider/download/#section=windows)
+I use Unreal4.25-4 and Visual Studio code for this project under Windows 10 environment.<br>
+[Unreal download](https://www.unrealengine.com/en-US/download)<br>
+[Visual Studio 2019 download](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)<br>
+[Visual Code download](https://code.visualstudio.com/docs/?dv=win)
 
 ## Usage
 
@@ -76,4 +75,4 @@ Under **Assets** folder, there are altogether **9** subfolders:
 
 ## License
 
-[MIT license](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/LICENSE)
+[MIT license](https://github.com/Yunxiang-Li/Unreal4_Escape-Room-Demo/blob/master/LICENSE)
