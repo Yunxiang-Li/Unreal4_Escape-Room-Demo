@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-A simple esacpe game demo based on unreal4 game engine.
+A simple esacpe game demo based on Unreal4 Game Engine.
 
 ## Table of Contents
 
@@ -35,39 +35,31 @@ I use Unreal4.25-4 and Visual Studio code for this project under Windows 10 envi
 
 ## Usage
 
-1. Download this repo, open(or zip and open) the **Unity3D_Box-Shooter** folder.
+1. Download this repo, open(or zip and open) the **Unreal4_Escape-Room-Demo** folder.
 
-2. Open the **Unity Hub**, from the Home Screen, click **Projects** to view the **Projects** tab.
+2. Double click the **BuildingEscape.uproject** file.
 
-3. To open an existing Unity Project stored on your computer, click the Project name in the **Projects** tab, or click **Open** to browse your computer for the Project folder.
-
-4. Note that a Unity Project is a collection of files and directories, rather than just one specific Unity Project file. To open a Project, you must select the main Project folder, rather than a specific file).
-
-5. For this game, just select the **Unity3D_Box-Shooter** folder and open this project.
+3. Let the **Unreal Game Engine** rebuild the demo.
 
 ## Structure
 
-The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.
+The whole project in Unreal contains two main folders, **Content** folder and **C++ Classes** folder.
 
-Under **Assets** folder, there are altogether **9** subfolders:
+Under **Content** folder, there are altogether **5** subfolders:
 
-1. Animation folder: contains **3** animation for targets and one target animation controller.
+1. Blueprints folder: contains a Blueprint Class which called **DefaultPawn_BP** indicates the modified default pawn class.
 
-2. Audio folder: contains all **5** sounds files including background music, laser, bonus hit music and so on.
+2. Levels folder: contains the demo's level.
 
-3. Materials folder: contains all **8** materials need for player, targets, bumpers and so on.
+3. MedievalDungeon folder: contains all **2** objects we need in this demo.
 
-4. Plugins folder: Plugins/Editor/JetBrains, creates for JetBrains Rider IDE.
+4. Sound folder: contains the door open/close sound file
 
-5. Prefabs folder: contains all **15** prefabs I will use in this game, including Projectile(bullet), Target Negative Explosion, Player and so on.
-
-6. Scences folder: contains **2** scenes, one for level one, the other one for level two.
-
-7. Scripts folder: contains all **12** customized C# scripts. I also use several scripts(ContrastEnhance.cs, Bloom.cs and so on) from **Standard Assets** folder provided by Unity.
-
-8. Standard Assets folder: provided by Unity, this will be handy and help us a lot when creating a game demo.
-
-9. Textures folder: including textures for skybox and crosshair.
+5. Models folder: contains all models we need in this demo which has **4** subfolders:
+  1. Instances folder: contains **5** material instances we need in this demo such as `MI_Door`, `MI_Wall` and so on.
+  2. Materials folder: contains **5** materials we need in this demo such as `M_Brass`, `M_Cell` and so on.
+  3. StaticMeshes folder: contains **2** static meshes we need in this demo. They are `SM_DoorFrame` and `SM_Door`.
+  4. Textures folder: contains **4** textures we need in this demo such as `T_Cell_BC`, `T_Door_BC` and so on.
 
 ## Maintainers
 
