@@ -22,9 +22,9 @@ In this demo, player needs to open two doors and escape the room. Player can use
 
 ## Exhibition
 
-<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level1%20win.gif"/> </div>
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unreal4_Escape-Room-Demo/blob/main/Screenshots%20and%20GIFs/Exhibition.gif"/> </div>
 
-<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level%202.PNG"/> </div>
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unreal4_Escape-Room-Demo/blob/main/Screenshots%20and%20GIFs/Exhibition.jpg"/> </div>
 
 ## Install
 
