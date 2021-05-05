@@ -35,7 +35,7 @@ I use Unreal4.25-4 and Visual Studio code for this project under Windows 10 envi
 
 ## Usage
 
-1. Download this repo, open(or zip and open) the **Unreal4_Escape-Room-Demo** folder.
+1. Download this repo, open(or unzip and open) the **Unreal4_Escape-Room-Demo** folder.
 
 2. Double click the **BuildingEscape.uproject** file.
 
