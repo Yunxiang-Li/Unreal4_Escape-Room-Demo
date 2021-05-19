@@ -47,9 +47,9 @@ The whole project in Unreal contains **2** main folders, **Content** folder and 
 
 Under **Content** folder, there are altogether **5** subfolders:
 
-1. **Blueprints folder**: contains a Blueprint Class which called **DefaultPawn_BP** indicates the modified default pawn class.
+1. **Blueprints** folder: contains a Blueprint Class which called **DefaultPawn_BP** indicates the modified default pawn class.
 
-2. **Levels folder**: contains the demo's level.
+2. **Levels** folder: contains the demo's level.
 
 3. **MedievalDungeon** folder: contains all **2** objects we need in this demo.
 
