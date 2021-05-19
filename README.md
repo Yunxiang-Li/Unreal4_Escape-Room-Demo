@@ -28,7 +28,7 @@ In this demo, player needs to open two doors and escape the room. Player can use
 
 ## Install
 
-I use Unreal4.25-4 and Visual Studio code for this project under Windows 10 environment.<br>
+I use Unreal4.25.4 and Visual Studio code for this project under Windows 10 environment.<br>
 [Unreal download](https://www.unrealengine.com/en-US/download)<br>
 [Visual Studio 2019 download](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)<br>
 [Visual Code download](https://code.visualstudio.com/docs/?dv=win)
