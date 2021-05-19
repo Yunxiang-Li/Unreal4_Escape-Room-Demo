@@ -43,7 +43,7 @@ I use Unreal4.25.4 and Visual Studio code for this project under Windows 10 envi
 
 ## Structure
 
-The whole project in Unreal contains two main folders, **Content** folder and **C++ Classes** folder.
+The whole project in Unreal contains **2** main folders, **Content** folder and **C++ Classes** folder.
 
 Under **Content** folder, there are altogether **5** subfolders:
 
@@ -64,6 +64,8 @@ Under **Content** folder, there are altogether **5** subfolders:
       5.3. **StaticMeshes** folder: contains **2** static meshes we need in this demo. They are `SM_DoorFrame` and `SM_Door`.
 
       5.4. **Textures** folder: contains **4** textures we need in this demo such as `T_Cell_BC`, `T_Door_BC` and so on.
+
+Under **C++ Classes** folder, there is one subfolder **BuildingEscape** which contains **2** C++ classes: `Grabber` and `OpenDoor`.
 
 ## Maintainers
 
